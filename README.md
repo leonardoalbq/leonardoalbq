@@ -1,16 +1,36 @@
-### Hi there 👋
+# 👋 Olá, pode de chamar de Leo!
+- Cursando Ciência da Computação 📚
+- Estudo Programação 💻
 
-<!--
-**leonardoalbq/leonardoalbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<div align="center">
+  
+  ### 📊 Estatísticas no GitHub:
 
-Here are some ideas to get you started:
+  <div class="stats" align="center">
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leonardoalbq&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=05070e&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&theme=jolly)
+
+  ### 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalbq&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&bg_color=05070e)
+
+  <div/>
+
+  ##
+  ### 👨‍💻 Principais Tecnologias e Ferramentas:
+
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  </div>
+
+  ##
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=eac006&color:05070e)](https://www.linkedin.com/in/leonardo-albuquerque-6683902b7/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=eac006&color:05070e)](https://www.instagram.com/leonardo_albq/)
+
+<div/>
