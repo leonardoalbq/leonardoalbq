@@ -13,14 +13,10 @@ Meu nome é Leonardo, tenho 22 anos e sou estudante de Ciência da Computação.
   
 ### 📊 GitHub Analytics:
 
-<div style="display: inline-block">
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardoalbq&bg_color=000&border_color=0000CD&title_color=00BFFF&text_color=FFF"/>
-
-  
 <img src="https://github-readme-stats.vercel.app/api?username=leonardoalbq&theme=transparent&bg_color=000&border_color=0000CD&show_icons=true&icon_color=00BFFF&title_color=00BFFF&text_color=FFF"/>
 
-<div/>
 
 ##
 ### 👨‍💻 Minhas Skills:
