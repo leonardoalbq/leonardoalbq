@@ -3,8 +3,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### 🚀 Sobre mim: 
-Meu nome é Leonardo, tenho 22 anos e sou estudante de Ciência da Computação.
-- Desenvolvedor iniciante.
+Meu nome é Leonardo, tenho 22 anos e sou desenvolvedor iniciante.
 
 
 
